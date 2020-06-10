@@ -1,0 +1,27 @@
+#============== 
+#v 1.06
+#===============
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/@BLD/
+**/BLD/
+#=====================================
+#Visual Studio / MonoDevelop generated
+#=====================================# Visual Studio 2015 cache directory
+**/.vs/
+ExportedObj/
+obj/
+*.apk
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.apk
+*.user
+*.unityproj
+*.booproj
