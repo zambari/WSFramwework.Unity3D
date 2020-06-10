@@ -1,0 +1,3 @@
+[submodule "WSFramwework.Unity3D.TestProject/Assets/WSFramework"]
+	path = WSFramwework.Unity3D.TestProject/Assets/WSFramework
+	url = https://github.com/zambari/WSFrameworkTemplateAlpha.git
